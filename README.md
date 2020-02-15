@@ -1,4 +1,4 @@
-# Mix It Up
+# Mix It Up - WIBDEV Version
 A desktop client for handling chat, interactivity, and other streamer assistance features for the Mixer streaming platform.
 
 ## What is this?
